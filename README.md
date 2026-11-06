@@ -27,7 +27,7 @@ make check     # validates all palettes (contrast ratios, missing roles, etc.)
 | File | Theme | Source / Key Color |
 |------|-------|--------------------|
 | `dracula.json` | [Dracula](https://draculatheme.com/) | `#bd93f9` (purple) |
-| `catpuccin.json` | [Catppuccin Mocha](https://catppuccin.com/) | `#cba6f7` (mauve) |
+| `catppuccin.json` | [Catppuccin Mocha](https://catppuccin.com/) | `#cba6f7` (mauve) |
 | `gruvbox.json` | [Gruvbox Dark](https://github.com/morhetz/gruvbox) | `#fabd2f` (yellow) |
 | `tokyonight.json` | [Tokyo Night](https://github.com/folke/tokyonight.nvim) | `#bb9af7` (purple) |
 | `nord.json` | [Nord](https://www.nordtheme.com/) | `#88c0d0` (frost blue) |
